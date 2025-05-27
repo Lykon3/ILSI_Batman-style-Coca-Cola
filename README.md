@@ -6,7 +6,7 @@
 ![GitHub last commit](https://img.shields.io/github/last-commit/Lykon3/Lykon3)
 ![Repo size](https://img.shields.io/github/repo-size/Lykon3/Lykon3)
 
-![Signal](https://img.shields.io/badge/signal-corrupted-critical?style=flat-square)
+![Signal](https://img.shields.io/badge/file_000000006e18622fbeb4fc6baa514f57.png)
 ![GlyphEngine](https://img.shields.io/badge/glyph_engine-ON-brightgreen?style=flat-square)
 ![RealityPatch](https://img.shields.io/badge/reality-patched--with--lube-blueviolet?style=flat-square)
 
