@@ -65,7 +65,7 @@ myth-engine-promis-cathedral/
 
 ### ⛩️ Sigil of the Month
 
-<img src="./assets/sigil_of_the_month.png" width="200">
+<img src="./sigil_of_the_month.png" width="200">
 
 ---
 
