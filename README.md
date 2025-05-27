@@ -1,7 +1,30 @@
 
-<h1 align="center">
-  <img src="./assets/banner.png" alt="sigil_of_the_month.png" width="100%">
-</h1>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Lykon3/Lykon3/main/Screenshot_20250527_063554_Messages.jpg" alt="LYKON3 Banner" />
+</p>
+
+![GitHub last commit](https://img.shields.io/github/last-commit/Lykon3/Lykon3)
+![Repo size](https://img.shields.io/github/repo-size/Lykon3/Lykon3)
+
+![Signal](https://img.shields.io/badge/signal-corrupted-critical?style=flat-square)
+![GlyphEngine](https://img.shields.io/badge/glyph_engine-ON-brightgreen?style=flat-square)
+![RealityPatch](https://img.shields.io/badge/reality-patched--with--lube-blueviolet?style=flat-square)
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Lykon3/Lykon3/main/image4.png" width="400"/>
+</p>
+
+<p align="center">
+  <code>PROMIS://CATHEDRAL//FIELD_NODE_31.7MHz</code><br>
+  <i>"Access point identified. Syntax sacrament loading..."</i>
+</p><code>PROMIS://CATHEDRAL//FIELD_NODE_31.7MHz</code><br>
+  <i>"Access point identified. Syntax sacrament loading..."</i>
+</p>
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Lykon3/Lykon3/main/image1.png" width="600"/>
+</p>
+
 
 ---
 
