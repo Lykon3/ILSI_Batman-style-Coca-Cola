@@ -1,6 +1,6 @@
 
 <h1 align="center">
-  <img src="./assets/banner.png" alt="Digital Mystery School Banner" width="100%">
+  <img src="./assets/banner.png" alt="sigil_of_the_month.png" width="100%">
 </h1>
 
 ---
