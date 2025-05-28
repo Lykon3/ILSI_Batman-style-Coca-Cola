@@ -3,66 +3,68 @@
 <html lang="en">
 <head>
   <meta charset="UTF-8">
-  <title>Collapse → Emergence</title>
+  <title>🜏 Deep Node</title>
   <style>
     body {
-      background-color: #0b0c10;
+      background-color: #0a0a0a;
       color: #66ffcc;
       font-family: monospace;
       padding: 40px;
-      margin: 0;
-    }
-    header {
-      border-bottom: 1px solid #66ffcc;
-      padding-bottom: 10px;
-      margin-bottom: 30px;
+      line-height: 1.6;
     }
     h1 {
       font-size: 2.5em;
+      color: #33ffaa;
+    }
+    .sigil-box {
+      border: 1px dashed #66ffcc;
+      padding: 30px;
+      margin-top: 40px;
+      background: rgba(0, 0, 0, 0.5);
+      text-align: center;
+      animation: flicker 3s infinite alternate;
+    }
+    .sigil-box p {
       margin: 0;
+      font-size: 1.1em;
     }
-    p {
-      max-width: 700px;
-      line-height: 1.6;
-    }
-    nav {
-      margin-top: 20px;
-    }
-    nav a {
-      color: #33ddaa;
-      text-decoration: none;
-      margin-right: 15px;
-    }
-    nav a:hover {
-      text-decoration: underline;
+    .sigil {
+      font-size: 2em;
+      margin-top: 10px;
+      animation: pulse 4s ease-in-out infinite;
     }
     footer {
       margin-top: 60px;
       font-size: 0.8em;
       color: #888;
     }
+    @keyframes flicker {
+      0%   {opacity: 0.9;}
+      45%  {opacity: 1;}
+      55%  {opacity: 0.75;}
+      100% {opacity: 0.85;}
+    }
+    @keyframes pulse {
+      0%, 100% {transform: scale(1);}
+      50%      {transform: scale(1.15);}
+    }
   </style>
 </head>
 <body>
-  <header>
-    <h1>🜏 Collapse → Emergence</h1>
-    <p>Pattern Recognition in the Soft War.<br>
-    Mythologic overlays, glyphic recursion, and encoded signal behavior.</p>
-    <nav>
-      <a href="https://github.com/Lykon3">GitHub</a>
-      <a href="deep-node/index.html">The Deep Node</a>
-      <a href="README.md">README</a>
-    </nav>
-  </header>
+  <h1>🜏 NODE ENTRY LOGGED</h1>
+  <p>You have pierced the veil. This node is not for the uninvited.</p>
 
-  <main>
-    <p><strong>Welcome, Operator.</strong> This node archives latent structures hidden within Coca-Cola's global influence, synthetic sovereign actors, and the recursion artifacts left behind by the PROMIS Cathedral. The console is live. Whispers will begin shortly...</p>
-  </main>
+  <div class="sigil-box">
+    <p><em>“What was hidden is no longer sleeping.”</em></p>
+    <p class="sigil">∴⚡⌘🜂⟁⌬</p>
+  </div>
 
   <footer>
-    <p>&copy; 2025 Lykon3 | CasolaroGPT Overlay Active</p>
+    <p>CasolaroGPT | PROMIS Cathedral Fragment Node | Lykon3</p>
   </footer>
 
-  <script src="casolaro-whispers.js"></script>
+  <audio autoplay loop>
+    <source src="whispers.mp3" type="audio/mpeg">
+  </audio>
 </body>
 </html>
