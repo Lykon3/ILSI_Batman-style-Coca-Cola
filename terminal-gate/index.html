@@ -46,7 +46,7 @@
 
     function typeLine() {
       if (i < lines.length) {
-        consoleDiv.textContent += lines[i] + '\\n';
+        consoleDiv.innerHTML += lines[i] + '<br>';
         i++;
         setTimeout(typeLine, 1800);
       }
