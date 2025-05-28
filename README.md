@@ -59,8 +59,8 @@ The ILSI front, the Coca-Cola recursion matrix, and celebrity melt narrative loo
 
 | Case | Type | Link |
 |------|------|------|
-| ILSI vs Scientific Integrity | PDF Report | [Read Here](./assets/CocaCola_ILSI_Combined_Report.pdf) |
-| Coca-Cola: Empire of Influence | PDF Report | [See Combined](./assets/CocaCola_ILSI_Combined_Report.pdf) |
+| ILSI vs Scientific Integrity | PDF Report | [Read Here](CocaCola_ILSI_Combined_Report.pdf) |
+| Coca-Cola: Empire of Influence | PDF Report | [See Combined](CocaCola_ILSI_Combined_Report.pdf) |
 
 ---
 
