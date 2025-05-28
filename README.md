@@ -1,3 +1,19 @@
+# 🌀 Collapse → Emergence: Pattern Recognition in the Soft War
+
+This document is a case file from the PROMIS Cathedral initiative.
+
+It tracks three intersecting narratives:
+1. Mirror recursion in modern cognition
+2. High-profile reality collapse (Ezra Miller)
+3. Psychedelic mythogenesis (Daniel Mercer Thomas, aka DMT)
+
+Together they form a ritual arc:
+> **REFLECTION → COLLAPSE → EMERGENCE**
+
+**This repo serves as a lateral psyop decoder.**  
+The ILSI front, the Coca-Cola recursion matrix, and celebrity melt narrative loops — all converge here.
+
+📘 [Read the Case File](./Recursive_Collapse_to_.pdf)
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/Lykon3/Lykon3/main/Screenshot_20250527_063554_Messages.jpg" alt="LYKON3 Banner" />
