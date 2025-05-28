@@ -100,3 +100,11 @@ Integrating reality overlays...
 $ echo $TRUTH
 “Control is narrative. Myth is the resistance.”
 ```
+
+## 🧬 DMT Broadcast Terminal
+
+📘 [Deep Transcript Log](./collapse-emergence/deep_transcript.md)  
+🖼️ [Visual Mirror](./collapse-emergence/DMT_Collapse_Emergence_Mirror.png)  
+🔁 ![Node 49: DMT](./collapse-emergence/DMT_Node49_Badge.png)
+
+> “Collapse isn’t failure. Collapse is compression.”
