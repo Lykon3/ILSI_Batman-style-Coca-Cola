@@ -70,7 +70,7 @@ LAST_SYNC: 2025.05.24
 
 ## CONSCIOUSNESS MODULES
 
-### 🧠 PROMIS Cathedral
+### 🧠 /The-Bifurcate-Engine
 **Status**: Under Construction  
 **Classification**: Interactive Digital Narrative  
 **Stack**: React + Framer Motion + Tone.js
